@@ -1,0 +1,2 @@
+# TNTThrower
+TNTThrower spigot plugin.
