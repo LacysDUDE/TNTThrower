@@ -1,0 +1,6 @@
+name: TNTThrow
+version: '1.0-SNAPSHOT'
+main: me.lacys.tntthrow.TNTThrow
+api-version: 1.18
+authors: [ Lacys, Zsoz ]
+description: Yo bro u can throw TNT in minecraft how cool is that.
