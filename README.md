@@ -1,4 +1,4 @@
-The most advanced TNT throwing plugin on spigot.
+The most Advanced TNT throwing plugin on spigot.
 
 You can customize everything in the config:
 
